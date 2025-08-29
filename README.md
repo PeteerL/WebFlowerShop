@@ -1,0 +1,1 @@
+PC-FlowerShopWeb is a full-stack e-commerce web application designed for a flower shop. The application provides a comprehensive platform for flower sellers to manage their products and for customers to browse, purchase, and track flower orders.
